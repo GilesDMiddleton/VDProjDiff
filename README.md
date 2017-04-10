@@ -1,6 +1,6 @@
 
 # VDProjDiff
-Produces a summary of the differences between two VDProj files. It uses .Net 4.6 - which should be installed on your operating system by now, or you need to go back to 1995.
+Produces a summary of the differences between two VDProj files. It uses .Net 4.6 - which should be installed on your operating system by now, or you need to go back to 1995. You can find the pre-built EXE in the release folder, or build the project yourself.
 
 # Licence
 Read /VDProjDiff/Licence.txt
