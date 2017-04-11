@@ -1,8 +1,8 @@
-
+ a
 # VDProjDiff
 Produces a summary of the differences between two VDProj files. It uses .Net 4.6 - which should be installed on your operating system by now, or you need to go back to 1995. You can find the pre-built EXE in the release folder, or build the project yourself.
 There are other tools out there that also try to help in this arena if mine isn't what you want.
-[Converting VDProj to XML](http://web2.codeproject.com/Articles/862952/Checking-Visual-Studio-Setup-Projects?display=Print)
+[Converting VDProj to XML](http://web2.codeproject.com/Articles/862952/Checking-Visual-Studio-Setup-Projects?display=Print) and 
 [MSI Diff tool](https://www.codeproject.com/articles/9132/a-windows-installer-database-diff-tool)
 
 # Licence
