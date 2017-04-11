@@ -89,7 +89,7 @@ namespace VDProjDiff
             foreach (string key in extraKeys)
             {
                 TreeItem item = oldItems.mapOfTreeItems[key];
-                added.AppendLine(item.ToString());
+                removed.AppendLine(item.ToString());
             }
         }
 
